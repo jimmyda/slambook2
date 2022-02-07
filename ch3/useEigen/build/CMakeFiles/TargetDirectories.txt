@@ -1,3 +1,0 @@
-/home/jin/git/slambook2/ch3/useEigen/build/CMakeFiles/rebuild_cache.dir
-/home/jin/git/slambook2/ch3/useEigen/build/CMakeFiles/edit_cache.dir
-/home/jin/git/slambook2/ch3/useEigen/build/CMakeFiles/app.out.dir

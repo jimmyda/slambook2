@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/jin/git/slambook2/ch3/useGeometry/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/eigen3  -g   -o CMakeFiles/app.out.dir/useGeometry.o -c /home/jin/git/slambook2/ch3/useGeometry/useGeometry.cpp",
-  "file": "/home/jin/git/slambook2/ch3/useGeometry/useGeometry.cpp"
-}
-]
